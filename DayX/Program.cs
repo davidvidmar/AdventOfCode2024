@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Advent of Code 2024 - Day X");
+        Console.WriteLine("Advent of Code 2024 - Day 6");
         
         // read and parse input
         
